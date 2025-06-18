@@ -26,3 +26,11 @@ A data analytics project that forecasts, analyzes, and visualizes company-level 
 ```bash
 git clone https://github.com/yourusername/financial-insights-dashboard.git
 cd financial-insights-dashboard
+
+### 2. Install Dependencies
+'''bash
+pip install pandas matplotlib streamlit
+
+### 3. Run the streamlit app
+'''bash
+streamlit run fin.py
